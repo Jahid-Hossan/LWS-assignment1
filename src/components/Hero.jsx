@@ -1,4 +1,5 @@
-import { figmaIcon, githubIcon, heroImg } from "../constants";
+import heroImg from "../assets/hero.png";
+import { figmaIcon, githubIcon } from "../constants";
 
 function HeroBtn({ name, icon }) {
   return (

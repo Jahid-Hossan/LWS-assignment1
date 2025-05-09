@@ -1,4 +1,4 @@
-import { logo } from "../constants";
+import logo from "../assets/logo.svg";
 
 function ActiveMenu({ name }) {
   return (

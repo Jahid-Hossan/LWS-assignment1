@@ -23,6 +23,7 @@ This is a responsive React-based landing page project completed as part of the *
   - Example: `<GoogleIcon />`, `<GithubIcon />`, `<CartIcon />`, etc.
 - Ensured the design matches the provided HTML visually and structurally.
 
+
 ## 🚀 Getting Started
 
 To run this project locally:
@@ -43,10 +44,10 @@ npm run dev
 
 ## 🧩 Highlights
 
-- Fully componentized and reusable codebase.
-- Clean and consistent Tailwind-based styling.
-- Scalable structure for larger projects.
-- Icons and repeated sections are broken into modular, maintainable parts.
+* Fully componentized and reusable codebase.
+* Clean and consistent Tailwind-based styling.
+* Scalable structure for larger projects.
+* Icons and repeated sections are broken into modular, maintainable parts.
 
 ## 👨‍💻 Author
 
