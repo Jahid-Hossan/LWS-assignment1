@@ -1,12 +1,54 @@
-# React + Vite
+This is a responsive React-based landing page project completed as part of the **Batch 3 Assignment** from _Learn with Sumit_. The project was bootstrapped using **Vite** and styled with **Tailwind CSS v4**. The page is built by converting a given `index.html` file into reusable React components following modern development best practices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔧 Technologies Used
 
-Currently, two official plugins are available:
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS v4](https://tailwindcss.com/docs/installation) (custom setup)
+- JSX & Component-based Architecture
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✅ Assignment Tasks Completed
 
-## Expanding the ESLint configuration
+- Initialized a new React project using `npm create vite@latest`.
+- Installed and configured **Tailwind CSS v4**.
+- Converted all sections of the provided `index.html` into modular **React components**:
+  - `Header`
+  - `Hero`
+  - `Services`
+  - `Features`
+  - `FAQs`
+  - `Footer`
+- Built **reusable components** for repeated UI patterns (e.g., feature cards, service items).
+- Created separate **SVG icon components** for each inline SVG used in the original design.
+  - Example: `<GoogleIcon />`, `<GithubIcon />`, `<CartIcon />`, etc.
+- Ensured the design matches the provided HTML visually and structurally.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Learn-with-Sumit/batch-3-assignment-1-agency-landing-page-Jahid-Hossan.git
+
+# Navigate into the folder
+cd batch-3-assignment-1-agency-landing-page-Jahid-Hossan
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## 🧩 Highlights
+
+- Fully componentized and reusable codebase.
+- Clean and consistent Tailwind-based styling.
+- Scalable structure for larger projects.
+- Icons and repeated sections are broken into modular, maintainable parts.
+
+## 👨‍💻 Author
+
+**Jahid Hossan**
+Frontend Developer | React & Tailwind Enthusiast
