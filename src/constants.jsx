@@ -22,27 +22,27 @@ export const figmaIcon = (
     <desc>Created using Figma</desc>
     <path
       id="path0_fill"
-      class="st0"
+      className="st0"
       d="M50 300c27.6 0 50-22.4 50-50v-50H50c-27.6 0-50 22.4-50 50s22.4 50 50 50z"
     />
     <path
       id="path1_fill"
-      class="st1"
+      className="st1"
       d="M0 150c0-27.6 22.4-50 50-50h50v100H50c-27.6 0-50-22.4-50-50z"
     />
     <path
       id="path1_fill_1_"
-      class="st2"
+      className="st2"
       d="M0 50C0 22.4 22.4 0 50 0h50v100H50C22.4 100 0 77.6 0 50z"
     />
     <path
       id="path2_fill"
-      class="st3"
+      className="st3"
       d="M100 0h50c27.6 0 50 22.4 50 50s-22.4 50-50 50h-50V0z"
     />
     <path
       id="path3_fill"
-      class="st4"
+      className="st4"
       d="M200 150c0 27.6-22.4 50-50 50s-50-22.4-50-50 22.4-50 50-50 50 22.4 50 50z"
     />
   </svg>
@@ -50,7 +50,7 @@ export const figmaIcon = (
 
 export const githubIcon = (
   <svg
-    class="w-4 h-4 mr-2 text-gray-500 dark:text-gray-400"
+    className="w-4 h-4 mr-2 text-gray-500 dark:text-gray-400"
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 496 512"
   >
@@ -61,7 +61,7 @@ export const githubIcon = (
 export const heroImg = "../src/assets/hero.png";
 export const airbnb = (
   <svg
-    class="h-9 hover:text-gray-900 dark:hover:text-white"
+    className="h-9 hover:text-gray-900 dark:hover:text-white"
     viewBox="0 0 125 35"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg"
@@ -76,7 +76,7 @@ export const airbnb = (
 );
 export const google = (
   <svg
-    class="h-9 hover:text-gray-900 dark:hover:text-white"
+    className="h-9 hover:text-gray-900 dark:hover:text-white"
     viewBox="0 0 86 29"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg"
@@ -92,7 +92,7 @@ export const google = (
 
 export const microsoft = (
   <svg
-    class="h-8 hover:text-gray-900 dark:hover:text-white"
+    className="h-8 hover:text-gray-900 dark:hover:text-white"
     viewBox="0 0 151 34"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg"
@@ -118,7 +118,7 @@ export const microsoft = (
 
 export const spotify = (
   <svg
-    class="h-9 hover:text-gray-900 dark:hover:text-white"
+    className="h-9 hover:text-gray-900 dark:hover:text-white"
     viewBox="0 0 124 38"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg"
@@ -132,7 +132,7 @@ export const spotify = (
 
 export const mailchimp = (
   <svg
-    class="h-9 hover:text-gray-900 dark:hover:text-white"
+    className="h-9 hover:text-gray-900 dark:hover:text-white"
     viewBox="0 0 137 37"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg"
@@ -213,7 +213,7 @@ export const mailchimp = (
 );
 export const mashable = (
   <svg
-    class="h-6 hover:text-gray-900 dark:hover:text-white"
+    className="h-6 hover:text-gray-900 dark:hover:text-white"
     viewBox="0 0 124 21"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg"
@@ -271,7 +271,7 @@ export const mashable = (
 
 export const listIcon = (
   <svg
-    class="flex-shrink-0 w-5 h-5 text-purple-500 dark:text-purple-400"
+    className="flex-shrink-0 w-5 h-5 text-purple-500 dark:text-purple-400"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -285,7 +285,7 @@ export const listIcon = (
 );
 export const arrowIcon = (
   <svg
-    class="w-5 h-5 ml-1"
+    className="w-5 h-5 ml-1"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -299,7 +299,7 @@ export const arrowIcon = (
 );
 export const driveIcon = (
   <svg
-    class="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
+    className="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -313,7 +313,7 @@ export const driveIcon = (
 );
 export const peopleIcon = (
   <svg
-    class="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
+    className="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -323,7 +323,7 @@ export const peopleIcon = (
 );
 export const worldIcon = (
   <svg
-    class="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
+    className="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -337,7 +337,7 @@ export const worldIcon = (
 );
 export const cartIcon = (
   <svg
-    class="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
+    className="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -347,7 +347,7 @@ export const cartIcon = (
 );
 export const quoteIcon = (
   <svg
-    class="h-12 mx-auto mb-3 text-gray-400 dark:text-gray-600"
+    className="h-12 mx-auto mb-3 text-gray-400 dark:text-gray-600"
     viewBox="0 0 24 27"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
@@ -360,7 +360,7 @@ export const quoteIcon = (
 );
 export const tickIcon = (
   <svg
-    class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400"
+    className="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -383,9 +383,9 @@ export const pricingData = [
     features: [
       "Individual configuration",
       "No setup, or hidden fees",
-      "Team size: <span class='font-semibold'>1 developer</span>",
-      "Premium support: <span class='font-semibold'>6 months</span>",
-      "Free updates: <span class='font-semibold'>6 months</span>",
+      "Team size: <span className='font-semibold'>1 developer</span>",
+      "Premium support: <span className='font-semibold'>6 months</span>",
+      "Free updates: <span className='font-semibold'>6 months</span>",
     ],
   },
   {
@@ -397,9 +397,9 @@ export const pricingData = [
     features: [
       "Individual configuration",
       "No setup, or hidden fees",
-      "Team size: <span class='font-semibold'>10 developers</span>",
-      "Premium support: <span class='font-semibold'>24 months</span>",
-      "Free updates: <span class='font-semibold'>24 months</span>",
+      "Team size: <span className='font-semibold'>10 developers</span>",
+      "Premium support: <span className='font-semibold'>24 months</span>",
+      "Free updates: <span className='font-semibold'>24 months</span>",
     ],
   },
   {
@@ -412,9 +412,9 @@ export const pricingData = [
     features: [
       "Individual configuration",
       "No setup, or hidden fees",
-      "Team size: <span class='font-semibold'>100+ developers</span>",
-      "Premium support: <span class='font-semibold'>36 months</span>",
-      "Free updates: <span class='font-semibold'>36 months</span>",
+      "Team size: <span className='font-semibold'>100+ developers</span>",
+      "Premium support: <span className='font-semibold'>36 months</span>",
+      "Free updates: <span className='font-semibold'>36 months</span>",
     ],
   },
 ];
@@ -422,7 +422,7 @@ export const pricingData = [
 export const arrowUpIcon = (
   <svg
     data-accordion-icon=""
-    class="w-6 h-6 rotate-180 shrink-0"
+    className="w-6 h-6 rotate-180 shrink-0"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -437,7 +437,7 @@ export const arrowUpIcon = (
 export const arrowDownIcon = (
   <svg
     data-accordion-icon=""
-    class="w-6 h-6 shrink-0"
+    className="w-6 h-6 shrink-0"
     fill="currentColor"
     viewBox="0 0 20 20"
     xmlns="http://www.w3.org/2000/svg"
@@ -451,7 +451,7 @@ export const arrowDownIcon = (
 );
 export const facebookIcon = (
   <svg
-    class="w-5 h-5"
+    className="w-5 h-5"
     fill="currentColor"
     viewBox="0 0 24 24"
     aria-hidden="true"
@@ -465,7 +465,7 @@ export const facebookIcon = (
 );
 export const instagramIcon = (
   <svg
-    class="w-5 h-5"
+    className="w-5 h-5"
     fill="currentColor"
     viewBox="0 0 24 24"
     aria-hidden="true"
@@ -479,7 +479,7 @@ export const instagramIcon = (
 );
 export const xIcon = (
   <svg
-    class="w-5 h-5"
+    className="w-5 h-5"
     fill="currentColor"
     viewBox="0 0 24 24"
     aria-hidden="true"
@@ -489,7 +489,7 @@ export const xIcon = (
 );
 export const beeIcon = (
   <svg
-    class="w-5 h-5"
+    className="w-5 h-5"
     fill="currentColor"
     viewBox="0 0 24 24"
     aria-hidden="true"
@@ -504,7 +504,7 @@ export const beeIcon = (
 
 export const gitIcon = (
   <svg
-    class="w-5 h-5"
+    className="w-5 h-5"
     fill="currentColor"
     viewBox="0 0 24 24"
     aria-hidden="true"

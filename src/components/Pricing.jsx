@@ -6,9 +6,9 @@ import ServiceHeading from "./SectionTitle";
 export default function Pricing() {
   return (
     <>
-      <section class="bg-white dark:bg-gray-900">
-        <div class="max-w-screen-xl px-4 py-8 mx-auto lg:py-24 lg:px-6">
-          <div class="max-w-screen-md mx-auto mb-8 text-center lg:mb-12">
+      <section className="bg-white dark:bg-gray-900">
+        <div className="max-w-screen-xl px-4 py-8 mx-auto lg:py-24 lg:px-6">
+          <div className="max-w-screen-md mx-auto mb-8 text-center lg:mb-12">
             <ServiceHeading text={`Designed for business teams like yours`} />
             <ServiceText
               text={`Here at Landwind we focus on markets where technology, innovation,

@@ -9,11 +9,11 @@ import ServiceList from "./ServiceList";
 export default function Service() {
   return (
     <>
-      <section class="bg-gray-50 dark:bg-gray-800">
-        <div class="max-w-screen-xl px-4 py-8 mx-auto space-y-12 lg:space-y-20 lg:py-24 lg:px-6">
+      <section className="bg-gray-50 dark:bg-gray-800">
+        <div className="max-w-screen-xl px-4 py-8 mx-auto space-y-12 lg:space-y-20 lg:py-24 lg:px-6">
           {/* <!-- Sub Service 1 --> */}
-          <div class="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
-            <div class="text-gray-500 sm:text-lg dark:text-gray-400">
+          <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
+            <div className="text-gray-500 sm:text-lg dark:text-gray-400">
               <ServiceHeading text={"Work with tools you already use"} />
               <ServiceText
                 text={`Deliver great service experiences fast - without the complexity
@@ -23,7 +23,7 @@ export default function Service() {
 
               <ul
                 role="list"
-                class="pt-8 space-y-5 border-t border-gray-200 my-7 dark:border-gray-700"
+                className="pt-8 space-y-5 border-t border-gray-200 my-7 dark:border-gray-700"
               >
                 <ServiceList
                   listIcon={listIcon}
@@ -48,9 +48,9 @@ export default function Service() {
           </div>
 
           {/* <!-- Sub Service 2 --> */}
-          <div class="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
+          <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
             <ServiceImg serviceImg={serviceImg2} />
-            <div class="text-gray-500 sm:text-lg dark:text-gray-400">
+            <div className="text-gray-500 sm:text-lg dark:text-gray-400">
               <ServiceHeading text={"We invest in the world’s potential"} />
               <ServiceText
                 text={`Deliver great service experiences fast - without the complexity
@@ -60,7 +60,7 @@ export default function Service() {
 
               <ul
                 role="list"
-                class="pt-8 space-y-5 border-t border-gray-200 my-7 dark:border-gray-700"
+                className="pt-8 space-y-5 border-t border-gray-200 my-7 dark:border-gray-700"
               >
                 <ServiceList
                   listIcon={listIcon}
